@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">connect_rfid</string>
+    <string name="add_reader_button">Add Reader</string>
+</resources>

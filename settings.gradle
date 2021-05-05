@@ -1,0 +1,3 @@
+include ':CAENRFIDLibrary-release'
+include ':app'
+rootProject.name = "connect_rfid"
